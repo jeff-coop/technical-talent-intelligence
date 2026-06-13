@@ -26,6 +26,18 @@ The goal is simple:
 
 ---
 
+## Contents
+
+- [Companies](#-companies)
+- [Universities](#-universities)
+- [Internships](#-internships)
+- [Engineering Ecosystems](#-engineering-ecosystems)
+- [Open Source](#-open-source)
+- [Learning Resources](#-learning-resources)
+- [Candidate Signals](#-candidate-signals)
+
+---
+
 ## Current Areas of Focus
 
 - Software Engineering
