@@ -28,13 +28,14 @@ The goal is simple:
 
 ## Contents
 
-- [Companies](#-companies)
-- [Universities](#-universities)
-- [Internships](#-internships)
-- [Engineering Ecosystems](#-engineering-ecosystems)
-- [Open Source](#-open-source)
-- [Learning Resources](#-learning-resources)
-- [Candidate Signals](#-candidate-signals)
+- [Companies](./Companies.md)
+- [Infrastructure Engineering](./Infrastructure%20Engineering.md)
+- [Software Engineering](./Software%20Engineering.md)
+- [AI and Machine Learning](./AI%20and%20Machine%20Learning.md)
+- [Universities](./Universities.md)
+- [Internships](./Internships.md)
+- [Candidate Signals](./Candidate%20Signals.md)
+- [Learning Resources](./Learning%20Resources.md)
 
 ---
 
