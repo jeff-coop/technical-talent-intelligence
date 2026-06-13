@@ -25,7 +25,6 @@ I'm interested in understanding which programs provide meaningful technical expe
 - MongoDB Internship Program
 - Datadog Internship Program
 - GitHub Internship Program
-- Palantir Internship Program
 
 ## Infrastructure Engineering
 
@@ -40,7 +39,6 @@ Programs known for distributed systems, cloud, databases, platform engineering, 
 - Cockroach Labs
 - Stripe
 - NVIDIA
-- Palantir
 
 ## AI & Machine Learning
 
